@@ -12,7 +12,18 @@ const server = jsonServer.create()
 // const router = jsonServer.router(db)
 
 // Comment out to allow write operations
-const router = jsonServer.router('db.json')
+const data = 
+    '{ ' +
+    ' "posts": [ ' +
+    '   { "id": 1, "title": "json-server", "author": "typicode" } ' +
+    ' ], ' +
+    ' "comments": [ ' +
+    '   { "id": 1, "body": "some comment", "postId": 1 } ' +
+    ' ], ' +
+    ' "profile": { "name": "typicode" } ' +
+    '} ';
+
+const router = jsonServer.router(data);
 
 const middlewares = jsonServer.defaults()
 
