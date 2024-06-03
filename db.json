@@ -1,9 +1,32 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "students": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "isActive": true,
+      "enrolledCourses": [1]
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "isActive": false,
+      "enrolledCourses": [2, 3]
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "courses": [
+    {
+      "id": 1,
+      "name": "Machine Learning"
+    },
+    {
+      "id": 2,
+      "name": "Intro to HTML"
+    },
+    {
+      "id": 3,
+      "name": "Functional JavaScript"
+    }
+  ]
 }
