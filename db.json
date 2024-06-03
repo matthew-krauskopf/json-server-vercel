@@ -2,13 +2,15 @@
   "students": [
     {
       "id": 1,
-      "name": "John Doe",
+      "firstName": "John",
+      "lastName": "Doe",
       "isActive": true,
       "enrolledCourses": [1]
     },
     {
       "id": 2,
-      "name": "Jane Smith",
+      "firstName": "Jane",
+      "lastName": "Smith",
       "isActive": false,
       "enrolledCourses": [2, 3]
     }
