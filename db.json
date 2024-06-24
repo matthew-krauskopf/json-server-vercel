@@ -28,5 +28,218 @@
       "id": 3,
       "name": "Functional JavaScript"
     }
+  ],
+   "teams": [
+    {
+      "name": "Reds",
+      "city": "Cincinnati",
+      "id": "113",
+      "league": "NL",
+      "division": "C"
+    },
+    {
+      "name": "Cubs",
+      "city": "Chicago",
+      "id": "112",
+      "league": "NL",
+      "division": "C"
+    },
+    {
+      "name": "Brewers",
+      "city": "Milwaukee",
+      "id": "158",
+      "league": "NL",
+      "division": "C"
+    },
+    {
+      "name": "Cardinals",
+      "city": "St. Louis",
+      "id": "138",
+      "league": "NL",
+      "division": "C"
+    },
+    {
+      "name": "Pirates",
+      "city": "Pittsburg",
+      "id": "134",
+      "league": "NL",
+      "division": "C"
+    },
+    {
+      "name": "Diamondbacks",
+      "city": "Arizona",
+      "id": "109",
+      "league": "NL",
+      "division": "W"
+    },
+    {
+      "name": "Braves",
+      "city": "Atlanta",
+      "id": "144",
+      "league": "NL",
+      "division": "E"
+    },
+    {
+      "name": "Orioles",
+      "city": "Baltimore",
+      "id": "110",
+      "league": "AL",
+      "division": "E"
+    },
+    {
+      "name": "Red Sox",
+      "city": "Boston",
+      "id": "111",
+      "league": "AL",
+      "division": "E"
+    },
+    {
+      "name": "White Sox",
+      "city": "Chicago",
+      "id": "145",
+      "league": "AL",
+      "division": "C"
+    },
+    {
+      "name": "Guardians",
+      "city": "Cleveland",
+      "id": "114",
+      "league": "AL",
+      "division": "C"
+    },
+    {
+      "name": "Rockies",
+      "city": "Colorado",
+      "id": "115",
+      "league": "NL",
+      "division": "W"
+    },
+    {
+      "name": "Tigers",
+      "city": "Detroit",
+      "id": "116",
+      "league": "AL",
+      "division": "C"
+    },
+    {
+      "name": "Astros",
+      "city": "Houston",
+      "id": "117",
+      "league": "AL",
+      "division": "W"
+    },
+    {
+      "name": "Royals",
+      "city": "Kansas City",
+      "id": "118",
+      "league": "AL",
+      "division": "C"
+    },
+    {
+      "name": "Angels",
+      "city": "Los Angeles",
+      "id": "108",
+      "league": "AL",
+      "division": "W"
+    },
+    {
+      "name": "Dodgers",
+      "city": "Los Angeles",
+      "id": "119",
+      "league": "NL",
+      "division": "W"
+    },
+    {
+      "name": "Marlins",
+      "city": "Miami",
+      "id": "146",
+      "league": "NL",
+      "division": "E"
+    },
+    {
+      "name": "Twins",
+      "city": "Minnesota",
+      "id": "142",
+      "league": "AL",
+      "division": "C"
+    },
+    {
+      "name": "Mets",
+      "city": "New York",
+       "id": "121",
+      "league": "NL",
+      "division": "E"
+    },
+    {
+      "name": "Yankees",
+      "city": "New York",
+      "id": "147",
+      "league": "AL",
+      "division": "E"
+    },
+    {
+      "name": "Athletics",
+      "city": "Oakland",
+      "id": "133",
+      "league": "AL",
+      "division": "W"
+    },
+    {
+      "name": "Phillies",
+      "city": "Philadelphia",
+      "id": "143",
+      "league": "NL",
+      "division": "E"
+    },
+    {
+      "name": "Padres",
+      "city": "San Diego",
+      "id": "135",
+      "league": "NL",
+      "division": "W"
+    },
+    {
+      "name": "Giants",
+      "city": "San Francisco",
+      "id": "137",
+      "league": "NL",
+      "division": "W"
+    },
+    {
+      "name": "Mariners",
+      "city": "Seattle",
+      "id": "136",
+      "league": "AL",
+      "division": "W"
+    },
+    {
+      "name": "Rays",
+      "city": "Tampa Bay",
+      "id": "139",
+      "league": "AL",
+      "division": "E"
+    },
+    {
+      "name": "Rangers",
+      "city": "Texas",
+      "id": "140",
+      "league": "AL",
+      "division": "W"
+    },
+    {
+      "name": "Blue Jays",
+      "city": "Toronto",
+      "id": "141",
+      "league": "AL",
+      "division": "E"
+    },
+    {
+      "name": "Nationals",
+      "city": "Washington",
+      "id": "120",
+      "league": "NL",
+      "division": "E"
+    }
   ]
+
 }
