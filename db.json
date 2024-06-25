@@ -34,211 +34,211 @@
       "name": "Reds",
       "city": "Cincinnati",
       "id": "113",
-      "league": "NL",
-      "division": "C"
+      "league": "National",
+      "division": "Central"
     },
     {
       "name": "Cubs",
       "city": "Chicago",
       "id": "112",
-      "league": "NL",
-      "division": "C"
+      "league": "National",
+      "division": "Central"
     },
     {
       "name": "Brewers",
       "city": "Milwaukee",
       "id": "158",
-      "league": "NL",
-      "division": "C"
+      "league": "National",
+      "division": "Central"
     },
     {
       "name": "Cardinals",
       "city": "St. Louis",
       "id": "138",
-      "league": "NL",
-      "division": "C"
+      "league": "National",
+      "division": "Central"
     },
     {
       "name": "Pirates",
       "city": "Pittsburg",
       "id": "134",
-      "league": "NL",
-      "division": "C"
+      "league": "National",
+      "division": "Central"
     },
     {
       "name": "Diamondbacks",
       "city": "Arizona",
       "id": "109",
-      "league": "NL",
-      "division": "W"
+      "league": "National",
+      "division": "West"
     },
     {
       "name": "Braves",
       "city": "Atlanta",
       "id": "144",
-      "league": "NL",
-      "division": "E"
+      "league": "National",
+      "division": "East"
     },
     {
       "name": "Orioles",
       "city": "Baltimore",
       "id": "110",
-      "league": "AL",
-      "division": "E"
+      "league": "American",
+      "division": "East"
     },
     {
       "name": "Red Sox",
       "city": "Boston",
       "id": "111",
-      "league": "AL",
-      "division": "E"
+      "league": "American",
+      "division": "East"
     },
     {
       "name": "White Sox",
       "city": "Chicago",
       "id": "145",
-      "league": "AL",
-      "division": "C"
+      "league": "American",
+      "division": "Central"
     },
     {
       "name": "Guardians",
       "city": "Cleveland",
       "id": "114",
-      "league": "AL",
-      "division": "C"
+      "league": "American",
+      "division": "Central"
     },
     {
       "name": "Rockies",
       "city": "Colorado",
       "id": "115",
-      "league": "NL",
-      "division": "W"
+      "league": "National",
+      "division": "West"
     },
     {
       "name": "Tigers",
       "city": "Detroit",
       "id": "116",
-      "league": "AL",
-      "division": "C"
+      "league": "American",
+      "division": "Central"
     },
     {
       "name": "Astros",
       "city": "Houston",
       "id": "117",
-      "league": "AL",
-      "division": "W"
+      "league": "American",
+      "division": "West"
     },
     {
       "name": "Royals",
       "city": "Kansas City",
       "id": "118",
-      "league": "AL",
-      "division": "C"
+      "league": "American",
+      "division": "Central"
     },
     {
       "name": "Angels",
       "city": "Los Angeles",
       "id": "108",
-      "league": "AL",
-      "division": "W"
+      "league": "American",
+      "division": "West"
     },
     {
       "name": "Dodgers",
       "city": "Los Angeles",
       "id": "119",
-      "league": "NL",
-      "division": "W"
+      "league": "National",
+      "division": "West"
     },
     {
       "name": "Marlins",
       "city": "Miami",
       "id": "146",
-      "league": "NL",
-      "division": "E"
+      "league": "National",
+      "division": "East"
     },
     {
       "name": "Twins",
       "city": "Minnesota",
       "id": "142",
-      "league": "AL",
-      "division": "C"
+      "league": "American",
+      "division": "Central"
     },
     {
       "name": "Mets",
       "city": "New York",
        "id": "121",
-      "league": "NL",
-      "division": "E"
+      "league": "National",
+      "division": "East"
     },
     {
       "name": "Yankees",
       "city": "New York",
       "id": "147",
-      "league": "AL",
-      "division": "E"
+      "league": "American",
+      "division": "East"
     },
     {
       "name": "Athletics",
       "city": "Oakland",
       "id": "133",
-      "league": "AL",
-      "division": "W"
+      "league": "American",
+      "division": "West"
     },
     {
       "name": "Phillies",
       "city": "Philadelphia",
       "id": "143",
-      "league": "NL",
-      "division": "E"
+      "league": "National",
+      "division": "East"
     },
     {
       "name": "Padres",
       "city": "San Diego",
       "id": "135",
-      "league": "NL",
-      "division": "W"
+      "league": "National",
+      "division": "West"
     },
     {
       "name": "Giants",
       "city": "San Francisco",
       "id": "137",
-      "league": "NL",
-      "division": "W"
+      "league": "National",
+      "division": "West"
     },
     {
       "name": "Mariners",
       "city": "Seattle",
       "id": "136",
-      "league": "AL",
-      "division": "W"
+      "league": "American",
+      "division": "West"
     },
     {
       "name": "Rays",
       "city": "Tampa Bay",
       "id": "139",
-      "league": "AL",
-      "division": "E"
+      "league": "American",
+      "division": "East"
     },
     {
       "name": "Rangers",
       "city": "Texas",
       "id": "140",
-      "league": "AL",
-      "division": "W"
+      "league": "American",
+      "division": "West"
     },
     {
       "name": "Blue Jays",
       "city": "Toronto",
       "id": "141",
-      "league": "AL",
-      "division": "E"
+      "league": "American",
+      "division": "East"
     },
     {
       "name": "Nationals",
       "city": "Washington",
       "id": "120",
-      "league": "NL",
-      "division": "E"
+      "league": "National",
+      "division": "East"
     }
   ]
 
