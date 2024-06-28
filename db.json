@@ -240,6 +240,87 @@
       "league": "National",
       "division": "East"
     }
+  ],
+  "players" : [
+    {
+      "id": 1,
+      "name": "John",
+      "wins": 0,
+      "losses": 0,
+      "city": "Orlando",
+      "state": "Florida",
+      "role": "Closer",
+      "address": "123 Park Way"
+    },
+    {
+      "id": 2,
+      "name": "Sue",
+      "wins": 0,
+      "losses": 0,
+      "city": "Buffalo",
+      "state": "New York",
+      "role": "Striker",
+      "address": "456 Park Way"
+    },
+    {
+      "id": 3,
+      "name": "Jack",
+      "wins": 0,
+      "losses": 0,
+      "city": "Denver",
+      "state": "Colorado",
+      "role": "Point Guard",
+      "address": "789 Park Way"
+    },
+    {
+      "id": 4,
+      "name": "Jill",
+      "wins": 0,
+      "losses": 0,
+      "city": "Miami",
+      "state": "Florida",
+      "role": "Wide Tackle",
+      "address": "135 Hill Rd"
+    },
+    {
+      "id": 5,
+      "name": "Matt",
+      "wins": 0,
+      "losses": 0,
+      "city": "Dallas",
+      "state": "Texas",
+      "role": "Blocker",
+      "address": "246 Hill Rd"
+    },
+    {
+      "id": 6,
+      "name": "Mary",
+      "wins": 0,
+      "losses": 0,
+      "city": "Seattle",
+      "state": "Washington",
+      "role": "Pitcher",
+      "address": "357 Hill Rd"
+    },
+    {
+      "id": 7,
+      "name": "Peter",
+      "wins": 0,
+      "losses": 0,
+      "city": "Columbus",
+      "state": "Ohio",
+      "role": "Kicker",
+      "address": "468 Hill Rd"
+    },
+    {
+      "id": 8,
+      "name": "Sarah",
+      "wins": 0,
+      "losses": 0,
+      "city": "Atlanta",
+      "state": "Georgia",
+      "role": "Water Girl",
+      "address": "685 Curvy St"
+    }
   ]
-
 }
