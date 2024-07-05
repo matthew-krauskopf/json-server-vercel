@@ -322,5 +322,65 @@
       "role": "Water Girl",
       "address": "685 Curvy St"
     }
+  ],
+  "brackets": [
+    {
+      "id": 1,
+      "name": "Super Duper Tourney",
+      "date": "20240601"
+    }
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "bracketId": 1,
+      "player1Id": 1,
+      "player2Id": 8,
+      "player1Score": 3,
+      "player2Score": 2 
+    },
+    {
+      "id": 2,
+      "bracketId": 1,
+      "player1Id": 2,
+      "player2Id": 7,
+      "player1Score": 3,
+      "player2Score": 0 
+    },{
+      "id": 3,
+      "bracketId": 1,
+      "player1Id": 3,
+      "player2Id": 6,
+      "player1Score": 3,
+      "player2Score": 1 
+    },{
+      "id": 4,
+      "bracketId": 1,
+      "player1Id": 4,
+      "player2Id": 5,
+      "player1Score": 3,
+      "player2Score": 2 
+    },{
+      "id": 5,
+      "bracketId": 1,
+      "player1Id": 1,
+      "player2Id": 4,
+      "player1Score": 1,
+      "player2Score": 3 
+    },{
+      "id": 6,
+      "bracketId": 1,
+      "player1Id": 2,
+      "player2Id": 3,
+      "player1Score": 3,
+      "player2Score": 1 
+    },{
+      "id": 7,
+      "bracketId": 1,
+      "player1Id": 4,
+      "player2Id": 2,
+      "player1Score": 3,
+      "player2Score": 2 
+    }
   ]
 }
