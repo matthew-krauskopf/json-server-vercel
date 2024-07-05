@@ -29,7 +29,7 @@
       "name": "Functional JavaScript"
     }
   ],
-   "teams": [
+  "teams": [
     {
       "name": "Reds",
       "city": "Cincinnati",
@@ -166,7 +166,7 @@
     {
       "name": "Mets",
       "city": "New York",
-       "id": "121",
+      "id": "121",
       "league": "National",
       "division": "East"
     },
@@ -241,7 +241,7 @@
       "division": "East"
     }
   ],
-  "players" : [
+  "players": [
     {
       "id": 1,
       "name": "John",
@@ -321,6 +321,46 @@
       "state": "Georgia",
       "role": "Water Girl",
       "address": "685 Curvy St"
+    },
+    {
+      "id": 9,
+      "name": "Sean",
+      "wins": 0,
+      "losses": 0,
+      "city": "Dayton",
+      "state": "Ohio",
+      "role": "Smasher",
+      "address": "245 Wacky Ave"
+    },
+    {
+      "id": 10,
+      "name": "David",
+      "wins": 0,
+      "losses": 0,
+      "city": "Peoria",
+      "state": "Indiana",
+      "role": "Gambler",
+      "address": "957 Wacky St"
+    },
+    {
+      "id": 11,
+      "name": "Josh",
+      "wins": 0,
+      "losses": 0,
+      "city": "Nashville",
+      "state": "Tennessee",
+      "role": "Watcher",
+      "address": "3798 Wavy St"
+    },
+    {
+      "id": 12,
+      "name": "Mike",
+      "wins": 0,
+      "losses": 0,
+      "city": "Boston",
+      "state": "Massachusetts",
+      "role": "Scouter",
+      "address": "5871 Hill St"
     }
   ],
   "brackets": [
@@ -348,7 +388,7 @@
       "player1Id": 1,
       "player2Id": 8,
       "player1Score": 3,
-      "player2Score": 2 
+      "player2Score": 2
     },
     {
       "id": 2,
@@ -357,47 +397,215 @@
       "player1Id": 2,
       "player2Id": 7,
       "player1Score": 3,
-      "player2Score": 0 
-    },{
+      "player2Score": 0
+    },
+    {
       "id": 3,
       "bracketId": 1,
       "round": 1,
       "player1Id": 3,
       "player2Id": 6,
       "player1Score": 3,
-      "player2Score": 1 
-    },{
+      "player2Score": 1
+    },
+    {
       "id": 4,
       "bracketId": 1,
       "round": 1,
       "player1Id": 4,
       "player2Id": 5,
       "player1Score": 3,
-      "player2Score": 2 
-    },{
+      "player2Score": 2
+    },
+    {
       "id": 5,
       "bracketId": 1,
       "round": 2,
       "player1Id": 1,
       "player2Id": 4,
       "player1Score": 1,
-      "player2Score": 3 
-    },{
+      "player2Score": 3
+    },
+    {
       "id": 6,
       "bracketId": 1,
       "round": 2,
       "player1Id": 2,
       "player2Id": 3,
       "player1Score": 3,
-      "player2Score": 1 
-    },{
+      "player2Score": 1
+    },
+    {
       "id": 7,
       "bracketId": 1,
       "round": 3,
       "player1Id": 4,
       "player2Id": 2,
       "player1Score": 3,
-      "player2Score": 2 
+      "player2Score": 2
+    },
+    {
+      "id": 8,
+      "bracketId": 2,
+      "round": 1,
+      "player1Id": 1,
+      "player2Id": 2,
+      "player1Score": 1,
+      "player2Score": 3
+    },
+    {
+      "id": 9,
+      "bracketId": 2,
+      "round": 2,
+      "player1Id": 2,
+      "player2Id": 8,
+      "player1Score": 3,
+      "player2Score": 2
+    },
+    {
+      "id": 10,
+      "bracketId": 2,
+      "round": 1,
+      "player1Id": 7,
+      "player2Id": 8,
+      "player1Score": 0,
+      "player2Score": 3
+    },
+
+    {
+      "id": 11,
+      "bracketId": 3,
+      "round": 4,
+      "player1Id": 4,
+      "player2Id": 3,
+      "player1Score": 3,
+      "player2Score": 2
+    },
+    {
+      "id": 12,
+      "bracketId": 3,
+      "round": 3,
+      "player1Id": 3,
+      "player2Id": 2,
+      "player1Score": 3,
+      "player2Score": 0
+    },
+    {
+      "id": 13,
+      "bracketId": 3,
+      "round": 3,
+      "player1Id": 4,
+      "player2Id": 1,
+      "player1Score": 3,
+      "player2Score": 0
+    },
+    {
+      "id": 14,
+      "bracketId": 3,
+      "round": 2,
+      "player1Id": 5,
+      "player2Id": 4,
+      "player1Score": 1,
+      "player2Score": 3
+    },
+    {
+      "id": 15,
+      "bracketId": 3,
+      "round": 2,
+      "player1Id": 6,
+      "player2Id": 3,
+      "player1Score": 1,
+      "player2Score": 3
+    },
+    {
+      "id": 16,
+      "bracketId": 3,
+      "round": 2,
+      "player1Id": 2,
+      "player2Id": 7,
+      "player1Score": 3,
+      "player2Score": 2
+    },
+    {
+      "id": 17,
+      "bracketId": 3,
+      "round": 2,
+      "player1Id": 1,
+      "player2Id": 8,
+      "player1Score": 3,
+      "player2Score": 2
+    },
+    {
+      "id": 18,
+      "bracketId": 3,
+      "round": 1,
+      "player1Id": 9,
+      "player2Id": 8,
+      "player1Score": 0,
+      "player2Score": 3
+    },
+    {
+      "id": 19,
+      "bracketId": 3,
+      "round": 1,
+      "player1Id": 7,
+      "player2Id": 10,
+      "player1Score": 3,
+      "player2Score": 2
+    },
+    {
+      "id": 20,
+      "bracketId": 3,
+      "round": 1,
+      "player1Id": 11,
+      "player2Id": 6,
+      "player1Score": 1,
+      "player2Score": 3
+    },
+    {
+      "id": 21,
+      "bracketId": 3,
+      "round": 1,
+      "player1Id": 12,
+      "player2Id": 5,
+      "player1Score": 0,
+      "player2Score": 3
+    },
+    {
+      "id": 22,
+      "bracketId": 3,
+      "round": 1,
+      "player1Id": 2,
+      "player2Id": -1,
+      "player1Score": 3,
+      "player2Score": 0
+    },
+    {
+      "id": 23,
+      "bracketId": 3,
+      "round": 1,
+      "player1Id": 3,
+      "player2Id": -1,
+      "player1Score": 3,
+      "player2Score": 0
+    },
+    {
+      "id": 24,
+      "bracketId": 3,
+      "round": 1,
+      "player1Id": 4,
+      "player2Id": -1,
+      "player1Score": 3,
+      "player2Score": 0
+    },
+    {
+      "id": 25,
+      "bracketId": 3,
+      "round": 1,
+      "player1Id": 1,
+      "player2Id": -1,
+      "player1Score": 3,
+      "player2Score": 0
     }
   ]
 }
