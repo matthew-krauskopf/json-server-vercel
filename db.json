@@ -326,8 +326,18 @@
   "brackets": [
     {
       "id": 1,
-      "name": "Super Duper Tourney",
-      "date": "20240601"
+      "name": "Frenzy Friday #7",
+      "date": 20240601
+    },
+    {
+      "id": 2,
+      "name": "Melty Monday #21",
+      "date": 20240502
+    },
+    {
+      "id": 3,
+      "name": "Super Slam Saturday",
+      "date": 20240608
     }
   ],
   "matches": [
