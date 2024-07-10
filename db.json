@@ -607,5 +607,55 @@
       "player1Score": 3,
       "player2Score": 0
     }
+  ],
+  "properties": [
+    {
+      "id": 1,
+      "price": 250000,
+      "address": {
+        "city": "St. Louis",
+        "state": "Missouri",
+        "street": "123 Park Way"
+      },
+      "bed": 2,
+      "bath": 1.5,
+      "sq-feet": 1800
+    },
+    {
+      "id": 2,
+      "price": 389000,
+      "address": {
+        "city": "Orlando",
+        "state": "Florida",
+        "street": "589 Palm Parkway"
+      },
+      "bed": 3,
+      "bath": 2.5,
+      "sq-feet": 1500
+    },
+    {
+      "id": 3,
+      "price": 500000,
+      "address": {
+        "city": "Arlington",
+        "state": "Texas",
+        "street": "589 Cowboy Way"
+      },
+      "bed": 4,
+      "bath": 4,
+      "sq-feet": 2600
+    },
+    {
+      "id": 4,
+      "price": 150000,
+      "address": {
+        "city": "Cincinnati",
+        "state": "Ohio",
+        "street": "456 Wavy St"
+      },
+      "bed": 1,
+      "bath": 1,
+      "sq-feet": 600
+    }
   ]
 }
