@@ -619,7 +619,11 @@
       },
       "bed": 2,
       "bath": 1.5,
-      "sqFt": 1800
+      "sqFt": 1800,
+      "seller": {
+        "name": "Property Brothers",
+        "phone": "937-867-5309"
+      }
     },
     {
       "id": 2,
@@ -631,7 +635,11 @@
       },
       "bed": 3,
       "bath": 2.5,
-      "sqFt": 1500
+      "sqFt": 1500,
+      "seller": {
+        "name": "Howie Mandell",
+        "phone": "513-982-4587"
+      }
     },
     {
       "id": 3,
@@ -639,11 +647,15 @@
       "address": {
         "city": "Arlington",
         "state": "Texas",
-        "street": "589 Cowboy Way"
+        "street": "382 Cowboy Way"
       },
       "bed": 4,
       "bath": 4,
-      "sqFt": 2600
+      "sqFt": 2600,
+      "seller": {
+        "name": "House Hunters",
+        "phone": "403-555-1234"
+      }
     },
     {
       "id": 4,
@@ -655,7 +667,11 @@
       },
       "bed": 1,
       "bath": 1,
-      "sqFt": 600
+      "sqFt": 600,
+      "seller": {
+        "name": "Mr. and Mrs. Smith",
+        "phone": "942-159-7521"
+      }
     }
   ]
 }
