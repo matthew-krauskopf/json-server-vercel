@@ -888,22 +888,26 @@
     {
       "id": 1,
       "username": "mattyk17",
-      "password": "pass123"
+      "password": "pass123",
+      "permission": "STANDARD"
     },
     {
       "id": 2,
       "username": "runner090",
-      "password": "pass123"
+      "password": "pass123",
+      "permission": "STANDARD"
     },
     {
       "id": 3,
       "username": "chocoman19",
-      "password": "pass123"
+      "password": "pass123",
+      "permission": "STANDARD"
     },
     {
       "id": 4,
       "username": "admin01",
-      "password": "pass123"
+      "password": "pass123",
+      "permission": "ADMIN"
     }
   ],
   "messsages": [
