@@ -623,7 +623,8 @@
       "seller": {
         "name": "Property Brothers",
         "phone": "937-867-5309"
-      }
+      },
+      "createdBy": "admin01"
     },
     {
       "id": 2,
@@ -639,7 +640,8 @@
       "seller": {
         "name": "Howie Mandell",
         "phone": "513-982-4587"
-      }
+      },
+      "createdBy": "admin01"
     },
     {
       "id": 3,
@@ -655,7 +657,8 @@
       "seller": {
         "name": "House Hunters",
         "phone": "403-555-1234"
-      }
+      },
+      "createdBy": "admin01"
     },
     {
       "id": 4,
@@ -671,7 +674,8 @@
       "seller": {
         "name": "Mr. and Mrs. Smith",
         "phone": "942-159-7521"
-      }
+      },
+      "createdBy": "admin01"
     }
   ],
   "states": [
