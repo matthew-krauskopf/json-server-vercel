@@ -889,25 +889,29 @@
       "id": 1,
       "username": "mattyk17",
       "password": "pass123",
-      "permission": "STANDARD"
+      "permission": "STANDARD",
+      "likedMessages": []
     },
     {
       "id": 2,
       "username": "runner090",
       "password": "pass123",
-      "permission": "STANDARD"
+      "permission": "STANDARD",
+      "likedMessages": []
     },
     {
       "id": 3,
       "username": "chocoman19",
       "password": "pass123",
-      "permission": "STANDARD"
+      "permission": "STANDARD",
+      "likedMessages": []
     },
     {
       "id": 4,
       "username": "admin01",
       "password": "pass123",
-      "permission": "ADMIN"
+      "permission": "ADMIN",
+      "likedMessages": []
     }
   ],
   "messages": [
@@ -921,16 +925,19 @@
           "author": 2,
           "uuid": "ff9a78ac-fd5a-409c-abfa-98e00b4fb829",
           "text": "Glad you had fun!",
-          "tmstp": 1721662640960
+          "tmstp": 1721662640960,
+          "likedBy": []
         }
-      ]
+      ],
+      "likedBy": []
     },
     {
       "author": 1,
       "uuid": "daae6375-ac54-4fc4-9812-e1028ad8a100",
       "text": "My cat is the best",
       "tmstp": 1721662640941,
-      "comments": []
+      "comments": [],
+      "likedBy": []
     },
     {
       "author": 2,
@@ -942,15 +949,18 @@
           "author": 1,
           "uuid": "ff9a78ac-fd5a-409c-abfa-98e00b4fb829",
           "text": "I know! We need to hang soon",
-          "tmstp": 1721662640950
+          "tmstp": 1721662640950,
+          "likedBy": []
         },
         {
           "author": 4,
           "uuid": "ff9a78ac-fd5a-409c-abfa-98e00b4fb829",
           "text": "Friday can't get here soon enough!",
-          "tmstp": 1721662640951
+          "tmstp": 1721662640951,
+          "likedBy": []
         }
-      ]
+      ],
+      "likedBy": []
     },
     {
       "author": 4,
@@ -962,21 +972,25 @@
           "author": 1,
           "uuid": "de8a4ff8-a1fc-4876-8f1a-1158d25a09e2",
           "text": "Never gonna let you down",
-          "tmstp": 1721662640971
+          "tmstp": 1721662640971,
+          "likedBy": []
         },
         {
           "author": 2,
           "uuid": "000d4553-d57d-4bc3-a949-4d54fb8312c4",
           "text": "Never gonna run around",
-          "tmstp": 1721662640972
+          "tmstp": 1721662640972,
+          "likedBy": []
         },
         {
           "author": 3,
           "uuid": "208b1204-f2c8-4940-a26c-7f6279d9cb1b",
           "text": "And desert you",
-          "tmstp": 1721662640973
+          "tmstp": 1721662640973,
+          "likedBy": []
         }
-      ]
+      ],
+      "likedBy": []
     }
   ]
 }
