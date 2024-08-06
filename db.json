@@ -890,28 +890,37 @@
       "username": "mattyk17",
       "password": "pass123",
       "permission": "STANDARD",
-      "likedMessages": []
+      "likedMessages": [
+        "1e3662e0-7bb3-43ec-bbd5-b352bdb7aa82",
+        "c5b71aa5-2f36-43e8-b7d9-d9540de60d22"
+      ]
     },
     {
       "id": 2,
       "username": "runner090",
       "password": "pass123",
       "permission": "STANDARD",
-      "likedMessages": []
+      "likedMessages": [
+        "1e3662e0-7bb3-43ec-bbd5-b352bdb7aa82",
+        "6f1a69ef-b7ac-4695-83c0-8cf0181975e1"
+      ]
     },
     {
       "id": 3,
       "username": "chocoman19",
       "password": "pass123",
       "permission": "STANDARD",
-      "likedMessages": []
+      "likedMessages": ["1e3662e0-7bb3-43ec-bbd5-b352bdb7aa82"]
     },
     {
       "id": 4,
       "username": "admin01",
       "password": "pass123",
       "permission": "ADMIN",
-      "likedMessages": []
+      "likedMessages": [
+        "de8a4ff8-a1fc-4876-8f1a-1158d25a09e2",
+        "c5b71aa5-2f36-43e8-b7d9-d9540de60d22"
+      ]
     }
   ],
   "messages": [
