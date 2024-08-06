@@ -890,6 +890,7 @@
       "username": "mattyk17",
       "password": "pass123",
       "permission": "STANDARD",
+      "retwats": ["c5b71aa5-2f36-43e8-b7d9-d9540de60d22"],
       "likedMessages": [
         "1e3662e0-7bb3-43ec-bbd5-b352bdb7aa82",
         "c5b71aa5-2f36-43e8-b7d9-d9540de60d22"
@@ -900,6 +901,7 @@
       "username": "runner090",
       "password": "pass123",
       "permission": "STANDARD",
+      "retwats": [],
       "likedMessages": [
         "1e3662e0-7bb3-43ec-bbd5-b352bdb7aa82",
         "6f1a69ef-b7ac-4695-83c0-8cf0181975e1"
@@ -910,6 +912,7 @@
       "username": "chocoman19",
       "password": "pass123",
       "permission": "STANDARD",
+      "retwats": [],
       "likedMessages": ["1e3662e0-7bb3-43ec-bbd5-b352bdb7aa82"]
     },
     {
@@ -917,6 +920,7 @@
       "username": "admin01",
       "password": "pass123",
       "permission": "ADMIN",
+      "retwats": [],
       "likedMessages": [
         "de8a4ff8-a1fc-4876-8f1a-1158d25a09e2",
         "c5b71aa5-2f36-43e8-b7d9-d9540de60d22"
@@ -1009,7 +1013,8 @@
       "text": "Had a great vacation!",
       "tmstp": 1721662640940,
       "comments": ["ff9a78ac-fd5a-409c-abfa-98e00b4fb829"],
-      "likedBy": [2]
+      "likedBy": [2],
+      "retwattedBy": []
     },
     {
       "author": 2,
@@ -1017,7 +1022,8 @@
       "text": "Glad you had fun!",
       "tmstp": 1721662640960,
       "likedBy": [],
-      "parent": "6f1a69ef-b7ac-4695-83c0-8cf0181975e1"
+      "parent": "6f1a69ef-b7ac-4695-83c0-8cf0181975e1",
+      "retwattedBy": []
     },
     {
       "author": 1,
@@ -1025,7 +1031,8 @@
       "text": "My cat is the best",
       "tmstp": 1721662640941,
       "comments": [],
-      "likedBy": []
+      "likedBy": [],
+      "retwattedBy": []
     },
     {
       "author": 2,
@@ -1036,7 +1043,8 @@
         "ff9a78ac-fd5a-409c-abfa-98e00b4fb829",
         "ff9a78ac-fd5a-409c-abfa-98e00b4fb830"
       ],
-      "likedBy": [4, 1]
+      "likedBy": [4, 1],
+      "retwattedBy": [1]
     },
     {
       "author": 1,
@@ -1044,7 +1052,8 @@
       "text": "I know! We need to hang soon",
       "tmstp": 1721662640950,
       "likedBy": [],
-      "parent": "c5b71aa5-2f36-43e8-b7d9-d9540de60d22"
+      "parent": "c5b71aa5-2f36-43e8-b7d9-d9540de60d22",
+      "retwattedBy": []
     },
     {
       "author": 4,
@@ -1052,7 +1061,8 @@
       "text": "Friday can't get here soon enough!",
       "tmstp": 1721662640951,
       "likedBy": [],
-      "parent": "c5b71aa5-2f36-43e8-b7d9-d9540de60d22"
+      "parent": "c5b71aa5-2f36-43e8-b7d9-d9540de60d22",
+      "retwattedBy": []
     },
     {
       "author": 4,
@@ -1064,7 +1074,8 @@
         "000d4553-d57d-4bc3-a949-4d54fb8312c4",
         "208b1204-f2c8-4940-a26c-7f6279d9cb1b"
       ],
-      "likedBy": [1, 2, 3]
+      "likedBy": [1, 2, 3],
+      "retwattedBy": []
     },
     {
       "author": 1,
@@ -1072,7 +1083,8 @@
       "text": "Never gonna let you down",
       "tmstp": 1721662640971,
       "likedBy": [4],
-      "parent": "1e3662e0-7bb3-43ec-bbd5-b352bdb7aa82"
+      "parent": "1e3662e0-7bb3-43ec-bbd5-b352bdb7aa82",
+      "retwattedBy": []
     },
     {
       "author": 2,
@@ -1080,7 +1092,8 @@
       "text": "Never gonna run around",
       "tmstp": 1721662640972,
       "likedBy": [],
-      "parent": "1e3662e0-7bb3-43ec-bbd5-b352bdb7aa82"
+      "parent": "1e3662e0-7bb3-43ec-bbd5-b352bdb7aa82",
+      "retwattedBy": []
     },
     {
       "author": 3,
@@ -1088,7 +1101,8 @@
       "text": "And desert you",
       "tmstp": 1721662640973,
       "likedBy": [],
-      "parent": "1e3662e0-7bb3-43ec-bbd5-b352bdb7aa82"
+      "parent": "1e3662e0-7bb3-43ec-bbd5-b352bdb7aa82",
+      "retwattedBy": []
     }
   ]
 }
