@@ -1120,5 +1120,71 @@
       "retwattedBy": [],
       "comments": []
     }
+  ],
+  "tracks": [
+    {
+      "id": 1,
+      "title": "When I Was Your Man",
+      "artist": "Bruno Mars",
+      "year": 2012,
+      "length": 165
+    },
+    {
+      "id": 2,
+      "title": "Handclap",
+      "artist": "Fitz and the Tantrums",
+      "year": 2013,
+      "length": 192
+    },
+    {
+      "id": 3,
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "year": 2014,
+      "length": 350
+    },
+    {
+      "id": 4,
+      "title": "Payphone",
+      "artist": "Maroon 5",
+      "year": 2015,
+      "length": 150
+    },
+    {
+      "id": 5,
+      "title": "Animals",
+      "artist": "Maroon 5",
+      "year": 2016,
+      "length": 204
+    }
+  ],
+  "playlists": [
+    {
+      "id": 1,
+      "name": "Workout Mix",
+      "createdBy": 2,
+      "tracks": []
+    },
+    {
+      "id": 2,
+      "name": "The Hits",
+      "createdBy": 1,
+      "tracks": []
+    }
+  ],
+  "spotUsers": [
+    {
+      "id": 1,
+      "username": "mattyk17",
+      "password": "pass123",
+      "playlists": [1, 2],
+      "favoriteTracks": [2, 5]
+    },
+    {
+      "id": 2,
+      "username": "admin01",
+      "password": "pass123",
+      "permission": "ADMIN"
+    }
   ]
 }
