@@ -1163,13 +1163,13 @@
       "id": 1,
       "name": "Workout Mix",
       "createdBy": 2,
-      "tracks": []
+      "tracks": [1, 2, 3]
     },
     {
       "id": 2,
       "name": "The Hits",
       "createdBy": 1,
-      "tracks": []
+      "tracks": [3, 4, 5]
     }
   ],
   "spotUsers": [
