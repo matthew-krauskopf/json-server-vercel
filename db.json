@@ -1161,13 +1161,13 @@
   "playlists": [
     {
       "id": 1,
-      "name": "Workout Mix",
+      "title": "Workout Mix",
       "createdBy": 2,
       "tracks": [1, 2, 3]
     },
     {
       "id": 2,
-      "name": "The Hits",
+      "title": "The Hits",
       "createdBy": 1,
       "tracks": [3, 4, 5]
     }
