@@ -1127,6 +1127,7 @@
       "title": "When I Was Your Man",
       "artist": "Bruno Mars",
       "year": 2012,
+      "album": "Unorthodox Jukebox",
       "length": 165
     },
     {
@@ -1134,6 +1135,7 @@
       "title": "Handclap",
       "artist": "Fitz and the Tantrums",
       "year": 2013,
+      "album": "Fitz and the Tantrums",
       "length": 192
     },
     {
@@ -1141,6 +1143,7 @@
       "title": "Grenade",
       "artist": "Bruno Mars",
       "year": 2014,
+      "album": "Doo-Wops & Hooligans",
       "length": 350
     },
     {
@@ -1148,6 +1151,7 @@
       "title": "Payphone",
       "artist": "Maroon 5",
       "year": 2015,
+      "album": "Overexposed",
       "length": 150
     },
     {
@@ -1155,7 +1159,32 @@
       "title": "Animals",
       "artist": "Maroon 5",
       "year": 2016,
+      "album": "V",
       "length": 204
+    },
+    {
+      "id": 6,
+      "title": "Hello,world!",
+      "artist": "BUMP OF CHICKEN",
+      "year": 2022,
+      "album": "Butterflies",
+      "length": 163
+    },
+    {
+      "id": 8,
+      "title": "Attention",
+      "artist": "Charlie Puth",
+      "year": 2015,
+      "album": "Voicenotes",
+      "length": 129
+    },
+    {
+      "id": 7,
+      "title": "A Real Life",
+      "artist": "Greek Life",
+      "year": 2021,
+      "album": "A Real Life",
+      "length": 208
     }
   ],
   "playlists": [
@@ -1163,13 +1192,13 @@
       "id": 1,
       "title": "Workout Mix",
       "createdBy": 2,
-      "tracks": [1, 2, 3]
+      "tracks": [1, 2, 3, 7]
     },
     {
       "id": 2,
       "title": "The Hits",
       "createdBy": 1,
-      "tracks": [3, 4, 5]
+      "tracks": [3, 4, 5, 8]
     }
   ],
   "spotUsers": [
