@@ -1266,5 +1266,49 @@
       "password": "pass123",
       "permission": "ADMIN"
     }
+  ],
+  "pets": [
+    {
+      "id": 1,
+      "type": "dog",
+      "name": "Henry",
+      "age": 5
+    },
+    {
+      "id": 2,
+      "type": "cat",
+      "name": "James",
+      "age": 6
+    },
+    {
+      "id": 3,
+      "type": "bird",
+      "name": "Corn",
+      "age": 2
+    },
+    {
+      "id": 4,
+      "type": "dog",
+      "name": "Roger",
+      "age": 1
+    },
+    {
+      "id": 5,
+      "type": "dog",
+      "name": "Spot",
+      "age": 7
+    },
+    {
+      "id": 6,
+      "type": "cat",
+      "name": "Fluffy",
+      "age": 3
+    },
+    {
+      "id": 7,
+      "type": "cat",
+      "name": "Mittens",
+      "age": 2
+    }
   ]
 }
